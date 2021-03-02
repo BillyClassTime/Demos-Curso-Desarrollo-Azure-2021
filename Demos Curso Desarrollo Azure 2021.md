@@ -2,11 +2,11 @@
 
 ## Ejercicios Curso AZ-204 Marzo 2021
 
-
+[Download Latest Student Handbook and AllFiles Content](../../releases/latest)
 
 | Mod     | ID    | Descripcion                                                  |
 | ------- | ----|-------------------------------------------------------- |
-| Mod 01  |01| [Demo: Creating a web app by using the Azure portal](docs/mod01_01_Creating a web app by using the Azure portal.pdf) |
+| Mod 01  |01| [Demo: Creating a web app by using the Azure portal](./docs/mod01_01_Creating a web app by using the Azure portal.pdf) |
 | Mod 01  |02|[Demo: Create a static HTML web  app by using](docs/mod01_02_Create a static HTML web app by using.pdf) |
 | Mod 01  |03| [Demo: Create a Web App with a local Git deployment source](docs/mod01_03_Create a Web App with a local Git deployment source.pdf) |
 | Mod 02  |01| [Demo: Create an HTTP trigger function by using the Azure  portal](docs/mod02_01_Create an HTTP trigger function by using the Azure portal.pdf) |
