@@ -14,4 +14,4 @@ Después de completar este lab, podrá:
 
 ## Arquitectura
 
-![](images\Architecture.png)
+![](images/Architecture.png)
