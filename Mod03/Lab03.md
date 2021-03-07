@@ -13,5 +13,5 @@ Después de completar esta práctica de laboratorio, podrá:
 
 ## Arquitectura
 
-![](images\mod03.png)
+![](images/mod03.png)
 

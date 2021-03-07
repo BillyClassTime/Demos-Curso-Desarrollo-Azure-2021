@@ -17,4 +17,4 @@ Después de completar este lab, podrá:
 ## Arquitectura
 
 
-![](D:\BMV\Mod02\images\mod02.png)
+![](images/mod02.png)

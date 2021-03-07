@@ -15,4 +15,4 @@ Después de completar esta práctica de laboratorio, podrá:
 
 ## Arquitectura
 
-![](images\Architecture.png)
+![](images/Architecture.png)

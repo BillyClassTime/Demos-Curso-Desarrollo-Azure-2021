@@ -15,6 +15,6 @@ Después de completar esta práctica de laboratorio, podrá:
 
 ## Arquitectura
 
-![](D:\BMV\Mod01\images\architecture_01.png)
+![](images/architecture_01.png)
 
 ## 
