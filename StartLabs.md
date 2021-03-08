@@ -1,4 +1,4 @@
-```
+```powershell
 New-Item -Path "D:\" -Name "Allfiles" -ItemType "directory"
 
 Import-Module -Name BitsTransfer
