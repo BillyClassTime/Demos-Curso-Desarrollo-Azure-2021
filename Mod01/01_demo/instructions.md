@@ -31,7 +31,7 @@ In this demo you will learn how to create a Web App by using the Azure Portal.
 
 7. Once the app is ready you can select the **Go to resource** button and the portal will display the web app overview page. To preview your new web app's default content, select its URL at the top right. The placeholder page that loads indicates that your web app is up and running and ready to receive deployment of your app's code.
 
-   ![img](https://www.skillpipe.com/api/2.1/content/urn:uuid:88438492-2a00-5769-bee1-e4c9ebc889fb@2020-12-12T08:30:18Z/OEBPS/Images/906092-363539.png)
+   ![img](../images/0101.png)
 
 #### Clean up resources
 
@@ -39,4 +39,5 @@ In this demo you will learn how to create a Web App by using the Azure Portal.
 2. **Select** the name of the resource group you created above.
 3. **Select** the **Delete resource group** button at the top of the Overview page.
 4. You will be prompted to enter the resource group name to verify you want to delete it. Enter the name of the resource group and select **Delete**.
-5. 
+
+   
