@@ -179,7 +179,7 @@ CloudBlobClient cloudBlobClient = storageAccount.CreateCloudBlobClient();
 CloudBlobContainer cloudBlobContainer =
     cloudBlobClient.GetContainerReference("demoblobs" +
         Guid.NewGuid().ToString());
-await cloudBlobContainer.CreateAsync();
+await cloudBlobContainer.CreateIfNotExistsAsync();
 
 Console.WriteLine("A container has been created, note the " +
     "'Public access level' in the portal.");
@@ -236,6 +236,7 @@ do
     foreach (IListBlobItem item in results.Results)
     {
         Console.WriteLine(item.Uri);
+        sourceFile = Path.Combine(localPath, ((CloudBlockBlob)item).Name);
     }
 } while (blobContinuationToken != null); // Loop while the continuation token is not null.
 
