@@ -173,6 +173,7 @@ To create the container, first create an instance of the CloudBlobClient object,
 
 
 ```
+CloudBlobClient cloudBlobClient = storageAccount.CreateCloudBlobClient();
 // Create a container called 'quickstartblobs' and
 // append a GUID value to it to make the name unique.
 CloudBlobContainer cloudBlobContainer =
